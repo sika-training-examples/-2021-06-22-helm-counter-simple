@@ -1,0 +1,5 @@
+apiVersion: v2
+name: counter-simple
+description: Simple Counter App (only one instance per namespace)
+type: application
+version: 2021.06.22
